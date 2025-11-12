@@ -24,7 +24,7 @@ This is an open-source mock test tool for the AWS AI Practitioner (AIF-C01) exam
 
 ## 🚀 如何使用 (How to Use)
 
-1.  **下載 (Download):** 從本專案下載 `index.html` 檔案 (或您命名的 HTML 檔案)。
+1.  **下載 (Download):** 從本專案下載 `AIF-C01.html` 檔案 (或您命名的 HTML 檔案)。
 2.  **開啟 (Open):** 在您的任何現代網頁瀏覽器（如 Chrome, Firefox, Edge）中直接開啟這個檔案。
 3.  **開始練習 (Practice)!**
 
